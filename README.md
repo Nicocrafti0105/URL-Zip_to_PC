@@ -13,10 +13,10 @@ python pip install tqdm requests
 OU
 ### 2
 ```bash
-pip install -r "requirements.txt"
+pip install -r path/to/requirements.txt
 ```
 ```bash
-python pip install -r "requirements.txt"
+python pip install -r path/to/requirements.txt
 ```
 
 ## Execution
