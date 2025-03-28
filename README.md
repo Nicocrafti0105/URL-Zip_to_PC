@@ -5,6 +5,9 @@
 ```bash
 pip install tqdm
 ```
+```bash
+python pip install tqdm
+```
 
 ## Execution
 ```bash
