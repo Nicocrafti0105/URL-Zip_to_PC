@@ -1,12 +1,22 @@
 # URL-Zip_to_PC
 -------------------------------------------------
 ## Preparation
-- Installer `tqdm`
+- Installer `tqdm` et `requests`
+Il y a 2 façons de procéder :
+### 1
 ```bash
-pip install tqdm
+pip install tqdm requests
 ```
 ```bash
-python pip install tqdm
+python pip install tqdm requests
+```
+OU
+### 2
+```bash
+pip install -r "requirements.txt"
+```
+```bash
+python pip install -r "requirements.txt"
 ```
 
 ## Execution
