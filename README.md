@@ -35,3 +35,5 @@ python main.py -u "url" -d "destination"
 - #### 3) Le script vérifie le fichier
 - #### 4) Le script décompresse le fichier
 - #### 5) Le script supprime l'archive
+
+Mindmap : [PDF](https://github.com/Nicocrafti0105/URL-Zip_to_PC/blob/main/Mindmap-code.pdf)
