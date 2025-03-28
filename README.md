@@ -2,6 +2,9 @@
 -------------------------------------------------
 ## Preparation
 - Installer `tqdm`
+```bash
+pip install tqdm
+```
 
 ## Execution
 ```bash
