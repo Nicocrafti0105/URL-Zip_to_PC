@@ -1,7 +1,7 @@
 # URL-Zip_to_PC
 -------------------------------------------------
 ## Preparation
-- Installer tqdm
+- Installer `tqdm`
 
 ## Execution
 ```bash
