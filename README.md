@@ -1,5 +1,8 @@
 # URL-Zip_to_PC
 -------------------------------------------------
+## Preparation
+- Installer tqdm
+
 ## Execution
 ```bash
 python main.py -u "url" -d "destination"
